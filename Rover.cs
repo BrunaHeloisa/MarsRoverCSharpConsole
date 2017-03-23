@@ -105,7 +105,7 @@ namespace MarsRoverCSharpConsole
                     }
                 }
             }
-        }
+        }       
         public void mover()
         {
             switch (this.getDir())
@@ -114,10 +114,12 @@ namespace MarsRoverCSharpConsole
                     this.coordy = this.coordy + 1;
                     break;
                 case "S":
-                    this.coordy = this.coordy - 1;
+                    if(this.coordy > 0)
+                        this.coordy = this.coordy - 1;
                     break;
                 case "W":
-                    this.coordx = this.coordx - 1;
+                    if(this.coordx > 0)
+                        this.coordx = this.coordx - 1;
                     break;
                 case "E":
                     this.coordx = this.coordx + 1;
