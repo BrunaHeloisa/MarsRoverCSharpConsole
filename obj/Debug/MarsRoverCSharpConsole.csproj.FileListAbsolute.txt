@@ -1,0 +1,18 @@
+c:\users\bruh\documents\visual studio 2015\Projects\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.exe.config
+c:\users\bruh\documents\visual studio 2015\Projects\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.exe
+c:\users\bruh\documents\visual studio 2015\Projects\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.pdb
+c:\users\bruh\documents\visual studio 2015\Projects\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.exe
+c:\users\bruh\documents\visual studio 2015\Projects\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.pdb
+C:\Users\Bruh\Documents\Visual Studio 2015\Projects\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.exe.config
+C:\Users\Matheus\Desktop\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.exe
+C:\Users\Matheus\Desktop\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.pdb
+C:\Users\Matheus\Desktop\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.exe
+C:\Users\Matheus\Desktop\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.pdb
+C:\Users\Bruh\Desktop\Bruh\Zup\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.exe.config
+C:\Users\Bruh\Desktop\Bruh\Zup\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.exe
+C:\Users\Bruh\Desktop\Bruh\Zup\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.pdb
+C:\Users\Bruh\Desktop\Bruh\Zup\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.exe
+C:\Users\Bruh\Desktop\Bruh\Zup\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\bin\Debug\MarsRoverCSharpConsole.pdb
+C:\Users\Bruh\Desktop\Bruh\Zup\MarsRoverCSharpConsole\MarsRoverCSharpConsole\MarsRoverCSharpConsole\obj\Debug\MarsRoverCSharpConsole.csprojResolveAssemblyReference.cache
